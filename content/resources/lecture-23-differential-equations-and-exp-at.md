@@ -9,7 +9,8 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "[Readings](pages/readings)  \n[Table of Contents](pages/readings#Table_of_Contents)"
+related_resources_text: "[Readings](/courses/18-06-linear-algebra-spring-2010/pages/readings)\
+  \  \n[Table of Contents](/courses/18-06-linear-algebra-spring-2010/pages/readings#Table_of_Contents)"
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 23: Differential equations and exp(At)'
