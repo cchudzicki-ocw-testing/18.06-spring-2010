@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -13,6 +14,7 @@ related_resources_text: "[Readings](/courses/18-06-linear-algebra-spring-2010/pa
   \  \n[Table of Contents](/courses/18-06-linear-algebra-spring-2010/pages/readings#Table_of_Contents)"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 28: Similar matrices and Jordan form'
 uid: 7981f3c4-13e4-3036-9643-531921892360
 video_files:
@@ -24,7 +26,7 @@ video_metadata:
   youtube_id: TSdXJw83kyA
 ---
 
-After a final discussion of positive definite matrices, we learn about "similar" matrices: _B_ = _M_{{< sup "\\-1" >}}_AM_ for some invertible matrix _M_. Square matrices can be grouped by similarity, and each group has a "nicest" representative in _Jordan normal form_. This form tells at a glance the eigenvalues and the number of eigenvectors.
+After a final discussion of positive definite matrices, we learn about "similar" matrices: _B_ = _M_{{< sup "\-1" >}}_AM_ for some invertible matrix _M_. Square matrices can be grouped by similarity, and each group has a "nicest" representative in _Jordan normal form_. This form tells at a glance the eigenvalues and the number of eigenvectors.
 
 These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook. However, this book is still the best reference for more information on the topics covered in each lecture.
 
