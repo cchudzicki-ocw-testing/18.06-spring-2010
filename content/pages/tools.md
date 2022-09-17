@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains demonstrations on matrix multiplication and Eigenvalues.
 learning_resource_types:
 - Tools
 ocw_type: CourseSection

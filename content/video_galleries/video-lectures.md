@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: This section contains a complete set of video lectures on linear algebra
+  along with transcripts and related resource files.
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos

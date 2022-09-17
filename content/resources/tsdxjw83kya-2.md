@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-06-linear-algebra-spring-2010/fa52863f73125e2c95dabdb7650bdb19_TSdXJw83kyA.vtt
+file: /media/courses/18-06-linear-algebra-spring-2010/fa52863f73125e2c95dabdb7650bdb19_TSdXJw83kyA.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

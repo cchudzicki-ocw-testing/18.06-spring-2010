@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides problem sets from the course text along with solutions.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
