@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section Professor Gilbert Strang describes various aspects of
+  how he teaches 18.06 Linear Algebra.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
@@ -10,22 +13,19 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Insights
 
 In the following video, Professor Gilbert Strang describes various aspects of how he teaches _18.06 Linear Algebra_.
 
 {{< resource e21b71ff-0fa9-75bf-a9ac-b2a155aafc1d >}}
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
-Mathematics GIR ![](/images/educator/icon-question-gir.png)
+Mathematics GIR ![](/images/educator/icon-question-gir.png)
 
 ### Requirements Satisfied
 
@@ -37,8 +37,7 @@ Every semester
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following activities:
 
@@ -46,10 +45,11 @@ The students' grades were based on the following activities:
 - 45% Three one-hour exams
 - 40% Final exam
 
-Student Information
--------------------
+## Student Information
 
-{{< resource c24518ec-da65-8185-c40c-2e5eeb72c7fa >}}
+### Enrollment
+
+182 students
 
 ### Breakdown by Year
 
@@ -61,35 +61,28 @@ Many computer science & engineering and management majors
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-Lecture
--------
+### Lecture
 
 Met 3 times per week for 1 hour per session; 38 sessions total; mandatory attendance.
 
-Recitation
-----------
+### Recitation
 
 Met 1 time per week for 1 hour each session.
 
-Out of Class
-------------
+### Out of Class
 
 Completing problem sets; studying for exams.
 
-Course Team Roles
------------------
+## Course Team Roles
 
-Lead Instructor (Professor Strang)
-----------------------------------
+### Lead Instructor (Professor Strang)
 
 Professor Strang prepared and delivered lectures; prepared problem sets.
 
-Teaching Assistants 
---------------------
+### Teaching Assistants 
 
 Five teaching assistants conducted recitation sessions; held office hours and fielded student questions by email.
